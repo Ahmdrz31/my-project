@@ -1,0 +1,46 @@
+[
+  {
+    "id": "S1001",
+    "role": "student",
+    "name": "علی رضایی",
+    "password": "naWkYiuBcZ7296mI39KTXA==$IZHtlfIzZtihZ8bTe2HzpO3WcT2/j5pqpVBOFE+JIh4=",
+    "email": "ali@example.com"
+  },
+  {
+    "id": "S1002",
+    "role": "student",
+    "name": "سارا محمدی",
+    "password": "5SdQ1a1+9N8ZermupgAHIA==$+ZPP5pOmpMZ6mC7DZLF8bgtlYX7HrScZaKXOWoDfSOs=",
+    "email": "sara@example.com"
+  },
+  {
+    "id": "P2001",
+    "role": "professor",
+    "name": "دکتر وحید حسینی",
+    "password": "hr6ebfRbleCvA2qPn0ZImg==$tz8IavGATMOPAtNfssxDLfWNyhE486Z8HJRNcupo7Xk=",
+    "email": "vahid@example.com",
+    "courses": [
+      {
+        "course_id": "T001",
+        "title": "پایان‌نامه - مهندسی نرم‌افزار"
+      }
+    ],
+    "max_supervise": 10,
+    "current_supervise": 0
+  },
+  {
+    "id": "P2002",
+    "role": "professor",
+    "name": "دکتر نسرین موسوی",
+    "password": "/fG1DT/F4JeSJeoqc+eF3g==$romCq7RhYT1I1s9RLiLAqEXwJ+KQJNOUGkb3sW+HiPE=",
+    "email": "nasrin@example.com",
+    "courses": [
+      {
+        "course_id": "T002",
+        "title": "پایان‌نامه - شبکه‌های کامپیوتری"
+      }
+    ],
+    "max_supervise": 10,
+    "current_supervise": 0
+  }
+]
